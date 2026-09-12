@@ -1,4 +1,3 @@
-
 gradio
 pytesseract
 Pillow
